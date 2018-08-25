@@ -3,6 +3,8 @@
 ## Added support for SNKRS shock drop
 Basically it tells you the first product at SNKRS right now. And inform you when it changes.
 
+## Original documentation
+
 Script to monitor  for changes in websites and send an email and/or tweet and/or text when one is detected
 
 requires requests (python -m pip install requests)
